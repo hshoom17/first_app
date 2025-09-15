@@ -1,6 +1,6 @@
-# first_app
+# Roll Dice App
 
-Roll Dice App
+
 
 ## Getting Started
 
